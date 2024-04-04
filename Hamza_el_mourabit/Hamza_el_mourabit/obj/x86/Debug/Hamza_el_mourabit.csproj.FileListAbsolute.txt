@@ -1,0 +1,11 @@
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\bin\Debug\Hamza_el_mourabit.exe
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\bin\Debug\Hamza_el_mourabit.pdb
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\obj\x86\Debug\MainWindow.baml
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\obj\x86\Debug\MainWindow.g.cs
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\obj\x86\Debug\App.g.cs
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\obj\x86\Debug\Hamza_el_mourabit_MarkupCompile.cache
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\obj\x86\Debug\Hamza_el_mourabit.g.resources
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\obj\x86\Debug\Hamza_el_mourabit.Properties.Resources.resources
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\obj\x86\Debug\Hamza_el_mourabit.csproj.GenerateResource.Cache
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\obj\x86\Debug\Hamza_el_mourabit.exe
+c:\users\iga_belv\documents\visual studio 2010\Projects\Hamza_el_mourabit\Hamza_el_mourabit\obj\x86\Debug\Hamza_el_mourabit.pdb
